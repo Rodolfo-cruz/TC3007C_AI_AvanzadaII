@@ -36,4 +36,4 @@ Repositorio para las evidencias (portafolio de análisis y de implementación) y
 
 ### Módulo 5. Estadística Avanzada para la Ciencia de Datos
 
-* **Actividades del módulo:** link dentro del repositorio
+* **Actividades del módulo (A5 a A8 y Actividad integradora 2):** Portafolio_Implementacion/Módulo 5. Estadística avanzada para la ciencia de datos
