@@ -14,7 +14,7 @@ Repositorio para las evidencias (portafolio de análisis y de implementación) y
 
 * **Evidencia individual:** Portafolio_Analisis/Módulo 4. Cómputo en la nube/Evidencia_módulo_4_Cloud.pdf
   
-* **Actividad (arquitectura en la nube):** link dentro del repositorio
+* **Actividad (arquitectura en la nube):** Portafolio_Analisis/Módulo 4. Cómputo en la nube/Diseño de Arquitectura en la Nube.pdf
 
 ### Módulo 5. Estadística Avanzada para la Ciencia de Datos
 
