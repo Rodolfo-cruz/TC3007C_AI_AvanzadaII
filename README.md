@@ -8,7 +8,7 @@ Repositorio para las evidencias (portafolio de análisis y de implementación) y
 
 ### Módulo 1. Big Data
 
-* **Tablero del proyecto:** link dentro del repositorio
+* **Actividades del módulo:** Portafolio_Analisis/Módulo 1. Big Data
 
 ### Módulo 4. Cómputo en la Nube
 
