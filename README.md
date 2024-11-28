@@ -2,7 +2,7 @@
 
 Repositorio para las evidencias (portafolio de análisis y de implementación) y reporte del reto para el 2do bloque de la concentración.
 
-# Archivos por portafolio y su ubicación en el repositorio
+# Archivos por portafolio y su ruta de ubicación en el repositorio
 
 ## Portafolio de Análisis
 
@@ -37,3 +37,7 @@ Repositorio para las evidencias (portafolio de análisis y de implementación) y
 ### Módulo 5. Estadística Avanzada para la Ciencia de Datos
 
 * **Actividades del módulo (A5 a A8 y Actividad integradora 2):** Portafolio_Implementacion/Módulo 5. Estadística avanzada para la ciencia de datos
+
+## Reporte de reto
+
+* Reporte final del reto: ruta
