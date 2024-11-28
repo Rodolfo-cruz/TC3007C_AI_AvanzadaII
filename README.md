@@ -40,4 +40,4 @@ Repositorio para las evidencias (portafolio de análisis y de implementación) y
 
 ## Reporte de reto
 
-* Reporte final del reto: ruta
+* **Reporte final del reto:** Reporte_de_Reto/Reporte_del_reto.pdf
