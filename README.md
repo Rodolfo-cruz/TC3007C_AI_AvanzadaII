@@ -32,7 +32,7 @@ Repositorio para las evidencias (portafolio de análisis y de implementación) y
 
 ### Módulo 3. Procesamiento de Lenguaje Natural (NLP)
 
-* **Actividades del módulo (tentativamente):** link dentro del repositorio
+* **Actividades del módulo:** Portafolio_Implementacion/Módulo 3. Procesamiento de lenguaje natural (NLP)
 
 ### Módulo 5. Estadística Avanzada para la Ciencia de Datos
 
