@@ -22,9 +22,9 @@ Repositorio para las evidencias (portafolio de análisis y de implementación) y
 
 ### Reto
 
-* **Resumen de la plática con el Dr. Coello:** link
+* **Resumen de la plática con el Dr. Coello:** Portafolio_Analisis/Reto/Debemos_preocuparnos_por_la_IA.pdf
   
-* **Reporte del reto:** link
+* **Reporte del reto:** Portafolio_Analisis/Reto/Reporte_de_Reto.pdf
 
 ## Portafolio de Implementación
 
