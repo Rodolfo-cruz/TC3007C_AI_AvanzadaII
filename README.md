@@ -22,7 +22,9 @@ Repositorio para las evidencias (portafolio de análisis y de implementación) y
 
 ### Reto
 
-* **Resumen de la plática con el Dr. Coello y Reporte del reto:** Portafolio_Analisis/Reto
+* **Resumen de la plática con el Dr. Coello:** link
+  
+* **Reporte del reto:** link
 
 ## Portafolio de Implementación
 
