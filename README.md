@@ -30,7 +30,7 @@ Repositorio para las evidencias (portafolio de análisis y de implementación) y
 
 ### Módulo 2. Deep Learning
 
-* **Actividades del módulo:** Portafolio_Implementacion/Módulo 2. Deep Learning
+* **Actividades del módulo y código de deep learning usado para el reto:** Portafolio_Implementacion/Módulo 2. Deep Learning
 
 ### Módulo 3. Procesamiento de Lenguaje Natural (NLP)
 
